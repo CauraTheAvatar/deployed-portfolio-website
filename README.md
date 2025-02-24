@@ -44,7 +44,7 @@ Feel free to fork the repo and submit a pull request if you'd like to improve th
 - **Email**: conceicao.laurauuyuni@gmail.com
 - **LinkedIn**: [Conceicao Uuyuni](https://www.linkedin.com/in/conceicao-uuyuni-35a1a6200/)
 - **GitHub**: [CauraTheAvatar](https://github.com/CauraTheAvatar)
-- **Portfolio Site**: [Conceicao Portfolio Site](https://cauracreatez.my.canva.site/)
+- **Deployed Portfolio Site**: [Conceicao Portfolio Site](https://cauracreatez.my.canva.site/)
 
 ---
 ✨ Developed with passion by **Conceicao (Caura) Uuyuni** ✨
